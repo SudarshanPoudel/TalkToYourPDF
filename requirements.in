@@ -1,0 +1,14 @@
+pyarrow
+pandas
+pendulum
+sentence_transformers
+google.generativeai
+langchain
+langchain_community
+chromadb
+pypdf
+pytz
+flask
+flask_cors
+typing
+pysqlite3-binary
